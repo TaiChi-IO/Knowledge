@@ -27,6 +27,7 @@ We've created a few Bubbles (markdown documents) to get you started.
 - [[foam-tips]] - tips to get the most out of your Foam workspace
 - [[todo]] - a place to keep track of things to do
 - [[stats]] - math and stats quick notes
+- [[verse]] - some beautiful words
 
 ## Note on `[[wiki-links]]`
 
